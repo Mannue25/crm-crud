@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "ZETA MANUEL",
+      "email": "mannygaleana25@gmail.com",
+      "telefono": "5618214599",
+      "empresa": "Facebook",
+      "id": 3
+    },
+    {
+      "nombre": "ZETA MANUEL",
+      "email": "manuel.itsicoco@outlook.com",
+      "telefono": "5618214599",
+      "empresa": "itsicoco",
+      "id": 4
+    },
+    {
+      "nombre": "ZETA MANUEL",
+      "email": "manuelgaleana2590@gmail.com",
+      "telefono": "5618214599",
+      "empresa": "Facebook",
+      "id": 5
+    },
+    {
+      "nombre": "Elisa Galeana",
+      "email": "elisa@correo.com",
+      "telefono": "5618214599",
+      "empresa": "Mi corazón",
+      "id": 6
+    }
+  ]
+}
